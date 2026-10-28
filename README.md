@@ -17,7 +17,7 @@ Every track is mastered, cut for editing (early drops, clean silences, a slow br
 
 | | Track | Made for | Edit points | Listen | Download |
 |:-:|---|---|---|:-:|:-:|
-| <img src="assets/covers/chrome-heart.jpg" width="96" alt="Chrome Heart cover"> | **Chrome Heart**<br><sub>Dark-pop cyberpunk · 140 BPM · 3:28</sub> | Cyberpunk: Edgerunners | `0:54` countdown<br>`0:56` **drop**<br>`1:52` drop<br>`2:20` slow bridge<br>`2:36` final drop | [YouTube](https://youtu.be/2rQTyI1UJbo) | [WAV](https://github.com/Akwice/darin-ncs-free-music/raw/main/tracks/Darin_NCS_-_Chrome_Heart.wav) |
+| <img src="assets/covers/chrome-heart.jpg" width="96" alt="Chrome Heart cover"> | **Chrome Heart**<br><sub>Dark-pop cyberpunk · 140 BPM · 3:28</sub> | Cyberpunk: Edgerunners | `0:54` countdown<br>`0:56` **drop**<br>`1:52` drop<br>`2:20` slow bridge<br>`2:36` final drop | [YouTube](https://youtu.be/l_jcNy9884A) | [WAV](https://github.com/Akwice/darin-ncs-free-music/raw/main/tracks/Darin_NCS_-_Chrome_Heart.wav) |
 
 <sub>New tracks every week. All WAV files are 24-bit / 44.1 kHz stereo, mastered at about −12 LUFS.</sub>
 
