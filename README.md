@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.youtube.com/channel/UCigaJiPLjDdbjokZFFs4-QA?sub_confirmation=1"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe on YouTube"></a>
   <a href="https://github.com/Akwice/darin-ncs-free-music/tree/main/tracks"><img src="https://img.shields.io/badge/WAV-Free%20download-46E0E6?style=for-the-badge&logo=github&logoColor=black" alt="Free WAV downloads"></a>
-  <a href="https://discord.gg/TsYJ5Qert"><img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join the Discord"></a>
+  <a href="https://discord.gg/fcUTQS8tfF"><img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join the Discord"></a>
   <img src="https://img.shields.io/badge/Content%20ID-Off-4ADE80?style=for-the-badge" alt="No Content ID">
 </p>
 
@@ -59,7 +59,7 @@ Content ID is turned off on every Darin NCS track, so your edits won't get claim
 
 Send me the link: I share the best edits on the channel. Email **darin.gmv@gmail.com** or comment under the track on YouTube.
 
-Want to know when a new track drops? Join the **[Discord](https://discord.gg/TsYJ5Qert)**: every new track is posted there first. Prefer email? Write "subscribe" to the same address. Already on the list and want out? Reply **STOP** to any email and you won't hear from me again.
+Want to know when a new track drops? Join the **[Discord](https://discord.gg/fcUTQS8tfF)**: every new track is posted there first. Prefer email? Write "subscribe" to the same address. Already on the list and want out? Reply **STOP** to any email and you won't hear from me again.
 
 ---
 
