@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Content%20ID-Off-4ADE80?style=for-the-badge" alt="No Content ID">
 </p>
 
-<h3 align="center">Copyright-free dark-pop and cinematic tracks, built for AMV and anime edits.</h3>
+<h3 align="center">Copyright-free dark-pop and cinematic tracks, built for AMV and anime edits. Custom tracks on request.</h3>
 
 Every track is mastered, cut for editing (early drops, clean silences, a slow bridge for slow-mo) and free to use in your edits. Grab the studio-quality **WAV** here, put it in your timeline, and go.
 
@@ -19,6 +19,18 @@ Every track is mastered, cut for editing (early drops, clean silences, a slow br
 | <img src="assets/covers/chrome-heart.jpg" width="96" alt="Chrome Heart cover"> | **Chrome Heart**<br><sub>Dark-pop cyberpunk · 140 BPM · 3:28</sub> | Cyberpunk: Edgerunners | `0:54` countdown<br>`0:56` **drop**<br>`1:52` drop<br>`2:20` slow bridge<br>`2:36` final drop | [YouTube](https://youtu.be/2rQTyI1UJbo) | [WAV](https://github.com/Akwice/darin-ncs-free-music/raw/main/tracks/Darin_NCS_-_Chrome_Heart.wav) |
 
 <sub>New tracks every week. All WAV files are 24-bit / 44.1 kHz stereo, mastered at about −12 LUFS.</sub>
+
+## Tracks on request
+
+Need a track for your next edit? Send me three things and I'll make it:
+
+| | |
+|---|---|
+| **Theme** | revenge, awakening, heartbreak, villain arc, last stand... |
+| **Anime or character** | the show, arc or character you're editing |
+| **Music style** | dark-pop, phonk, rock, cinematic, slowed, EDM drop... |
+
+Email **darin.gmv@gmail.com** with "Request" in the subject. Requested tracks come out on the channel and in this repo, copyright-free like the others.
 
 ## How to use them
 
