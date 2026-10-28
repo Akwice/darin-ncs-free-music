@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UCigaJiPLjDdbjokZFFs4-QA?sub_confirmation=1"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe on YouTube"></a>
-  <a href="https://github.com/Akwice/darin-ncs-free-music/releases"><img src="https://img.shields.io/badge/WAV-Free%20download-46E0E6?style=for-the-badge&logo=github&logoColor=black" alt="Free WAV downloads"></a>
+  <a href="https://github.com/Akwice/darin-ncs-free-music/tree/main/tracks"><img src="https://img.shields.io/badge/WAV-Free%20download-46E0E6?style=for-the-badge&logo=github&logoColor=black" alt="Free WAV downloads"></a>
   <img src="https://img.shields.io/badge/Content%20ID-Off-4ADE80?style=for-the-badge" alt="No Content ID">
 </p>
 
@@ -16,13 +16,13 @@ Every track is mastered, cut for editing (early drops, clean silences, a slow br
 
 | | Track | Made for | Edit points | Listen | Download |
 |:-:|---|---|---|:-:|:-:|
-| <img src="assets/covers/chrome-heart.jpg" width="96" alt="Chrome Heart cover"> | **Chrome Heart**<br><sub>Dark-pop cyberpunk · 140 BPM · 3:28</sub> | Cyberpunk: Edgerunners | `0:54` countdown<br>`0:56` **drop**<br>`1:52` drop<br>`2:20` slow bridge<br>`2:36` final drop | [YouTube](https://youtu.be/2rQTyI1UJbo) | [WAV](https://github.com/Akwice/darin-ncs-free-music/releases/tag/chrome-heart) |
+| <img src="assets/covers/chrome-heart.jpg" width="96" alt="Chrome Heart cover"> | **Chrome Heart**<br><sub>Dark-pop cyberpunk · 140 BPM · 3:28</sub> | Cyberpunk: Edgerunners | `0:54` countdown<br>`0:56` **drop**<br>`1:52` drop<br>`2:20` slow bridge<br>`2:36` final drop | [YouTube](https://youtu.be/2rQTyI1UJbo) | [WAV](https://github.com/Akwice/darin-ncs-free-music/raw/main/tracks/Darin_NCS_-_Chrome_Heart.wav) |
 
 <sub>New tracks every week. All WAV files are 24-bit / 44.1 kHz stereo, mastered at about −12 LUFS.</sub>
 
 ## How to use them
 
-1. Open the track's **WAV** link and download the `.wav` file under *Assets*.
+1. Tap the track's **WAV** link: the download starts right away (all files are also in [`tracks/`](tracks)).
 2. Use it in your edit: YouTube, YouTube Shorts, TikTok, Instagram Reels, Twitch, and more.
 3. Add the credit in your description:
 
