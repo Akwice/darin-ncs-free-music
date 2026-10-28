@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Content%20ID-Off-4ADE80?style=for-the-badge" alt="No Content ID">
 </p>
 
-<h3 align="center">Copyright-free dark-pop and cinematic tracks, built for AMV and anime edits. Custom tracks on request.</h3>
+<h3 align="center">Copyright-free dark-pop and cinematic tracks, built for AMV and anime edits. Free custom tracks on request.</h3>
 
 Every track is mastered, cut for editing (early drops, clean silences, a slow bridge for slow-mo) and free to use in your edits. Grab the studio-quality **WAV** here, put it in your timeline, and go.
 
@@ -22,7 +22,7 @@ Every track is mastered, cut for editing (early drops, clean silences, a slow br
 
 ## Tracks on request
 
-Need a track for your next edit? Send me three things and I'll make it:
+Need a track for your next edit? Send me three things and I'll make it, **for free**:
 
 | | |
 |---|---|
