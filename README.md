@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UCigaJiPLjDdbjokZFFs4-QA?sub_confirmation=1"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe on YouTube"></a>
-  <a href="https://github.com/Akwice/darin-ncs-free-music/tree/main/tracks"><img src="https://img.shields.io/badge/WAV-Free%20download-46E0E6?style=for-the-badge&logo=github&logoColor=black" alt="Free WAV downloads"></a>
+  <a href="#tracks"><img src="https://img.shields.io/badge/WAV-Free%20download-46E0E6?style=for-the-badge&logo=github&logoColor=black" alt="Free WAV downloads"></a>
   <a href="https://discord.gg/fcUTQS8tfF"><img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join the Discord"></a>
   <img src="https://img.shields.io/badge/Content%20ID-Off-4ADE80?style=for-the-badge" alt="No Content ID">
 </p>
@@ -36,7 +36,7 @@ Email **darin.gmv@gmail.com** with "Request" in the subject. Requested tracks co
 
 ## How to use them
 
-1. Tap the track's **WAV** link: the download starts right away (all files are also in [`tracks/`](tracks)).
+1. Tap the track's **WAV** link: the download starts right away (all files are also in [`tracks/`](tracks) and the [Releases](https://github.com/Akwice/darin-ncs-free-music/releases)).
 2. Use it in your edit: YouTube, YouTube Shorts, TikTok, Instagram Reels, Twitch, and more.
 3. Add the credit in your description:
 
