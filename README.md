@@ -17,9 +17,10 @@ Every track is mastered, cut for editing (early drops, clean silences, a slow br
 
 | | Track | Made for | Edit points | Listen | Download |
 |:-:|---|---|---|:-:|:-:|
+| <img src="assets/covers/king-of-it-all.jpg" width="96" alt="King Of It All cover"> | **King Of It All**<br><sub>Dark-pop cinematic, female vocals · 120 BPM · 3:22</sub> | Villain arcs, any anime | `0:42` cut<br>`0:45` **drop**<br>`1:41` chorus<br>`2:12` bridge<br>`2:33` final drop | [YouTube](https://youtu.be/YEkOGKl_cIo) | [WAV](https://github.com/Akwice/darin-ncs-free-music/raw/main/tracks/Darin_NCS_-_King_Of_It_All.wav) |
 | <img src="assets/covers/chrome-heart.jpg" width="96" alt="Chrome Heart cover"> | **Chrome Heart**<br><sub>Dark-pop cyberpunk · 140 BPM · 3:28</sub> | Cyberpunk: Edgerunners | `0:54` countdown<br>`0:56` **drop**<br>`1:52` drop<br>`2:20` slow bridge<br>`2:36` final drop | [YouTube](https://youtu.be/l_jcNy9884A) | [WAV](https://github.com/Akwice/darin-ncs-free-music/raw/main/tracks/Darin_NCS_-_Chrome_Heart.wav) |
 
-<sub>New tracks every week. All WAV files are 24-bit / 44.1 kHz stereo, mastered at about −12 LUFS.</sub>
+<sub>New tracks every week. All WAV files are full-quality stereo masters (16 or 24-bit), mastered at about −12 LUFS.</sub>
 
 ## Tracks on request
 
